@@ -1,0 +1,6 @@
+torch==2.6.0
+torch-geometric==2.6.1
+torch_scatter==2.1.2+pt26cpu
+numpy==2.2.4
+scikit-learn==1.6.1
+scipy==1.15.2
