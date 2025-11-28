@@ -1,0 +1,8 @@
+
+Class Sample Num: 200
+
+Im_ratio: [0.1, 0.5, 0.6]
+
+Up_ratio: 1.6
+
+Os_mode: kmeans, train_mode: 

@@ -1,0 +1,14 @@
+
+Up_ratio: 1.6
+
+Os_mode: kmeans, train_mode: 
+
+Os_mode: bsm, train_mode: 
+
+Os_mode: gsm-b, train_mode: preT
+
+Os_mode: gsm-k, train_mode: preT
+
+Os_mode: gsm-b, train_mode: preO
+
+Os_mode: gsm-k, train_mode: preO
